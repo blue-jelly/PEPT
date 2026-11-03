@@ -1,0 +1,4 @@
+target,target_chembl_id,n_exact_ic50_records,n_unique_compounds_overall,n_assay_families,best_family_assay_chembl_id,best_family_assay_type,best_family_n_records,best_family_n_compounds,best_family_n_scaffolds,gate_300_compounds_50_scaffolds,rdkit_available
+AR,CHEMBL1871,3603,2370,377,CHEMBL5733828,B,53,53,28,FAIL,True
+hERG,CHEMBL240,12010,9804,1952,CHEMBL1827362,B,217,217,118,FAIL,True
+ADRB2,CHEMBL210,685,623,64,CHEMBL1947791,B,50,50,26,FAIL,True
